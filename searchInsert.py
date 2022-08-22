@@ -1,3 +1,6 @@
+import math
+
+
 def searchInsert(nums, target):
     arr = nums
     i1 = 0
