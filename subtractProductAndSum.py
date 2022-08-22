@@ -9,6 +9,3 @@ def subtractProductAndSum(n):
         sum += n % 10
         n = math.floor(n/10)
     return product-sum
-
-
-print(subtractProductAndSum(4421))
